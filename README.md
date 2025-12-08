@@ -2,7 +2,7 @@
 I am a Machine Learning enthusiast currently pursuing studies in the field. I have a strong foundation in Python and C programming, and a solid grasp of mathematical concepts including calculus, probability, and statistics. I am fluent in Bengali, English, and Hindi, which allows me to collaborate across diverse teams.
 Goal
 To develop a deep and practical understanding of Machine Learning and contribute to impactful projects in the field.
-Skills
+
 
 
 Programming: Python, C
