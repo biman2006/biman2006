@@ -43,8 +43,8 @@ I enjoy solving real-world problems through **data analysis, visualization, and 
 - Machine Learning & AI  
 - Data Science & Data Analytics  
 - Data Visualization  
-- Model Deployment (FastAPI)  
-- Backend Development  
+- Model Deployment  
+- Backend Development(FastAPI) 
 - Real-world problem solving using Python  
 
 ---
