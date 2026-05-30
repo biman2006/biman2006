@@ -1,87 +1,141 @@
-# Hi 👋 I'm Biman Adhikary  
+# Hi 👋, I'm Biman Adhikary
 
-🎓 B.Tech CSE (Data Science) | 2nd Year Student  
-💻 Python Developer | Data Science Enthusiast | FastAPI Learner  
-🚀 Interested in Machine Learning, Data Science & Backend Development  
+### Data Science Student | Machine Learning Engineer Aspirant | Backend Developer
 
----
-
-## 👨‍💻 About Me  
-I'm **Biman Adhikary**, a passionate Computer Science (Data Science) student who loves working with data, building machine learning models, and deploying projects using backend frameworks like FastAPI.  
-I enjoy solving real-world problems through **data analysis, visualization, and predictive modeling**.  
-
-- 🔭 Currently working on **Machine Learning + Data Science projects**  
-- 🌱 Learning more about **ML algorithms, model optimization & deployment**  
-- 🧠 Interested in **AI, ML, Data Analytics, and Backend Systems**  
-- 🎯 Goal: Become a skilled **Machine Learning Engineer / Data Scientist**  
+🚀 Passionate about building Machine Learning systems, scalable backend applications, and real-world software products.
 
 ---
 
-## 🛠️ Tech Stack  
+## 👨‍💻 About Me
 
-### 👨‍💻 Programming Languages  
-- Python  
-- C  
-
-### 📊 Data Science & Visualization  
-- NumPy  
-- Pandas  
-- Matplotlib  
-
-### 🤖 Machine Learning  
-- Scikit-learn (Basic)  
-
-### ⚡ Backend Development  
-- FastAPI  
-
-### 🗄️ Database  
-- MySQL  
+* 🎓 B.Tech CSE (Data Science)
+* 🐍 Python Developer
+* 🤖 Machine Learning & Data Science Enthusiast
+* ⚡ FastAPI Backend Developer
+* 🏗️ Building production-ready projects from scratch
+* 📚 Currently learning advanced Machine Learning, MLOps, and Backend Engineering
+* 🎯 Goal: Become a Machine Learning Engineer and build impactful AI products
 
 ---
 
-## 🚀 What I'm Interested In  
-- Machine Learning & AI  
-- Data Science & Data Analytics  
-- Data Visualization  
-- Model Deployment  
-- Backend Development(FastAPI) 
-- Real-world problem solving using Python  
+## 🔥 Current Focus
+
+* Machine Learning
+* Data Science
+* FastAPI
+* SQLAlchemy
+* Database Design
+* AutoML Systems
+* Model Deployment
+* Backend Architecture
+* Git & GitHub
 
 ---
 
-## 📌 Featured Projects  
-Here are some projects you can explore in my GitHub repositories:
+## 🚀 Featured Projects
 
-- 📊 Data Analysis Projects using Pandas & Matplotlib  
-- 🤖 Machine Learning Models (Regression / Classification)  
-- ⚡ FastAPI Backend APIs  
-- 🗄️ Database based projects using MySQL  
-- 🐍 Python mini projects & problem solving  
+### 🔹 ModelForge
 
-⭐ More projects coming soon...
+An AutoML Pipeline that automates:
 
----
+* Data Ingestion
+* Data Validation
+* Data Transformation
+* Feature Engineering
+* Model Training
+* Model Evaluation
+* Model Selection
 
-## 📈 GitHub Stats  
-
-![Biman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+Tech Used:
+Python, Pandas, NumPy, Scikit-Learn
 
 ---
 
-## 📫 Connect With Me  
+### 🔹 PrepNexus
 
-🔗 LinkedIn: [Biman Adhikary](https://www.linkedin.com/in/biman-adhikary-922624315/)  
-📧 Email: bimanadhikary75@gmail.com  
+A complete interview preparation platform featuring:
+
+* Resume Analysis
+* Mock Interviews
+* AI-powered Feedback
+* Coding Practice
+* Progress Tracking
+
+Tech Used:
+SQLAlchemy, MySQL, Python
 
 ---
 
-## 🏆 Extra  
-- 📌 Always learning new skills and improving my coding journey  
-- 🚀 Focused on building real-world ML and Data Science projects  
-- 💡 Believe in consistency and discipline  
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+* C
+
+### Data Science
+
+* NumPy
+* Pandas
+* Matplotlib
+
+### Machine Learning
+
+* Scikit-Learn
+* Model Evaluation
+* Feature Engineering
+* Data Preprocessing
+
+### Backend
+
+* FastAPI
+* SQLAlchemy
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
-⭐ If you like my work, consider starring ⭐ my repositories!
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biman2006\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biman2006\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning
+* MLOps
+* System Design
+* Backend Engineering
+* Software Architecture
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [bimanadhikary75@gmail.com](mailto:bimanadhikary75@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/biman-adhikary-922624315/
+
+---
+
+## 💡 Motto
+
+> "Build. Break. Learn. Repeat."
+
+I believe the best way to learn is by building real-world projects and solving practical problems.
+
+⭐ If you find my projects useful, consider giving them a star.
+
+
