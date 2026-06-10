@@ -103,13 +103,7 @@ SQLAlchemy, MySQL, Python
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biman2006\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biman2006\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌱 Currently Learning
 
